@@ -1,0 +1,2 @@
+# qocr
+OCR project
